@@ -20,6 +20,7 @@
 ## Web
 - [LunchboxJS](https://github.com/breakfast-studio/lunchboxjs) - Custom Vue 3 renderer for ThreeJS
 - [vuvas](https://github.com/huruji/vuvas) - Use vue 3.0 + css to draw high-performance UI on canvas
+- [vugel](https://github.com/Planning-nl/vugel) - Vue3 fast webgl/canvas renderer based on the tree2d framework
 
 <a name="desktop" />
 
