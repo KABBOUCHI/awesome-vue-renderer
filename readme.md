@@ -37,6 +37,7 @@
 ## Command Line Interface
 - [temir](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
 - [vuminal](https://github.com/ycmjason/vuminal) - Create terminal applications with the power of Vue 3.
+- [vue-termui](https://github.com/vue-terminal/vue-termui) - The Modern Terminal UI Framework
 
 <a name="learn" />
 
