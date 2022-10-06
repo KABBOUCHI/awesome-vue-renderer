@@ -31,7 +31,7 @@
 
 ## Mobile
 - [nativescript-vue-next](https://github.com/rigor789/nativescript-vue-next) - Native mobile applications using Vue and NativeScript.
-
+- [Hippy Vue](https://github.com/Tencent/Hippy/tree/master/packages/hippy-vue) - Write Hippy cross platform app with Vue Web technology.
 <a name="cli" />
 
 ## Command Line Interface
